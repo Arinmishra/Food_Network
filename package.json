@@ -20,9 +20,9 @@
   "author": "Arin Mishra",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Arinmishra/food_delivery_app/issues"
+    "url": "https://github.com/Arinmishra/food_network/issues"
   },
-  "homepage": "https://github.com/Arinmishra/food_delivery_app",
+  "homepage": "https://github.com/Arinmishra/food_network",
   "devDependencies": {
     "@babel/core": "^7.26.7",
     "@babel/preset-env": "^7.26.7",
