@@ -22,7 +22,7 @@
   "bugs": {
     "url": "https://github.com/Arinmishra/food_delivery_app/issues"
   },
-  "homepage": "https://github.com/Arinmishra/food_delivery_app#readme",
+  "homepage": "https://github.com/Arinmishra/food_delivery_app",
   "devDependencies": {
     "@babel/core": "^7.26.7",
     "@babel/preset-env": "^7.26.7",
